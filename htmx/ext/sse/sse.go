@@ -40,3 +40,8 @@ func Trigger[T any](hx htmx.HX[T], event string) T {
 	prefixedEvent := fmt.Sprintf("sse:%s", event)
 	return hx.Attr(htmx.Trigger, prefixedEvent)
 }
+
+// Close
+func Close[T any](hx htmx.HX[T], messageName string) T {
+	return hx.Attr("sse-close", messageName)
+}
