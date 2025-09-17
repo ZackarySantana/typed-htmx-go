@@ -11,7 +11,7 @@ import (
 //
 // # Install
 //
-//	<script src="https://unpkg.com/htmx.org@1.9.12/dist/ext/remove-me.js"></script>
+//	<script src="https://unpkg.com/htmx.org@2.0.7/dist/ext/remove-me.js"></script>
 //
 // Extension: [remove-me]
 //

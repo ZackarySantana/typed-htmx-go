@@ -12,7 +12,7 @@ import (
 //
 // # Install
 //
-//	<script src="https://unpkg.com/htmx.org@1.9.12/dist/ext/class-tools.js"></script>
+//	<script src="https://unpkg.com/htmx.org@2.0.7/dist/ext/class-tools.js"></script>
 //
 // Extension: [class-tools]
 //

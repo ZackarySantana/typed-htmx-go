@@ -81,7 +81,7 @@ These extensions each have their own package, and expose function that take a co
 var hx = htmx.NewTempl()
 
 <head>
-	<script src="https://unpkg.com/htmx.org@1.9.12/dist/ext/class-tools.js"></script>
+	<script src="https://unpkg.com/htmx.org@2.0.7/dist/ext/class-tools.js"></script>
 </head>
 ...
 <div { hx.Ext(classtools.Extension)... }>

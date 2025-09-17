@@ -13,7 +13,7 @@ import (
 //
 // # Install
 //
-//	<script src="https://unpkg.com/htmx.org@1.9.12/dist/ext/sse.js"></script>
+//	<script src="https://unpkg.com/htmx.org@2.0.7/dist/ext/sse.js"></script>
 //
 // Extension: [server-sent-events]
 //

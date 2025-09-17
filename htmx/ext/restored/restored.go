@@ -7,7 +7,7 @@ import "github.com/will-wow/typed-htmx-go/htmx"
 //
 // # Install
 //
-//	<script src="https://unpkg.com/htmx.org@1.9.12/dist/ext/restored.js"></script>
+//	<script src="https://unpkg.com/htmx.org@2.0.7/dist/ext/restored.js"></script>
 //
 // # Usage
 //

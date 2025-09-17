@@ -12,7 +12,7 @@ import (
 //
 // # Install
 //
-//	<script src="https://unpkg.com/htmx.org@1.9.12/dist/ext/loading-states.js"></script>
+//	<script src="https://unpkg.com/htmx.org@2.0.7/dist/ext/loading-states.js"></script>
 //
 // # Usage
 // Add the hx-ext="loading-states" attribute to the body tag or to any parent element containing your htmx attributes.
