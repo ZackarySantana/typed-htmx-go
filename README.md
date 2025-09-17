@@ -112,7 +112,7 @@ These are mostly ported from the [HTMX examples](https://htmx.org/examples/), bu
 
 ## HTMX Version
 
-`typed-htmx-go` strives to keep up with HTMX releases. It currently supports HTMX `v1.9.10`.
+`typed-htmx-go` strives to keep up with HTMX releases. It currently supports HTMX `v2.0.7`.
 
 ## Goals
 
