@@ -21,5 +21,5 @@ import "github.com/will-wow/typed-htmx-go/htmx"
 //
 // Extension: [event-header]
 //
-// [event-header]: https://htmx.org/extensions/event-header/
+// [event-header]: https://github.com/bigskysoftware/htmx-extensions/blob/main/src/event-header/README.md
 const Extension htmx.Extension = "event-header"

@@ -16,7 +16,7 @@ import (
 //
 // Extension: [class-tools]
 //
-// [class-tools]: https://htmx.org/extensions/class-tools/
+// [class-tools]: https://github.com/bigskysoftware/htmx-extensions/blob/main/src/class-tools/README.md
 const Extension htmx.Extension = "class-tools"
 
 // An operation represents the type of class operation to perform after the specified delay.
@@ -55,7 +55,7 @@ type Run []classOperation
 //
 // Extension: [class-tools]
 //
-// [class-tools]: https://htmx.org/extensions/class-tools/
+// [class-tools]: https://github.com/bigskysoftware/htmx-extensions/blob/main/src/class-tools/README.md
 func Classes[T any](hx htmx.HX[T], operations ...classOperation) T {
 	return ClassesParallel(hx, []Run{operations})
 }
@@ -76,7 +76,7 @@ func Classes[T any](hx htmx.HX[T], operations ...classOperation) T {
 //
 // Extension: [class-tools]
 //
-// [class-tools]: https://htmx.org/extensions/class-tools/
+// [class-tools]: https://github.com/bigskysoftware/htmx-extensions/blob/main/src/class-tools/README.md
 func ClassesParallel[T any](hx htmx.HX[T], runs []Run) T {
 	classes := strings.Builder{}
 

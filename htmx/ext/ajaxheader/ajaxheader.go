@@ -15,5 +15,5 @@ import "github.com/will-wow/typed-htmx-go/htmx"
 //
 // Extension: [ajax-header]
 //
-// [ajax-header]: https://htmx.org/extensions/ajax-header/
+// [ajax-header]: https://github.com/bigskysoftware/htmx-extensions/blob/main/src/ajax-header/README.md
 const Extension htmx.Extension = "ajax-header"

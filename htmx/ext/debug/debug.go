@@ -15,5 +15,5 @@ import "github.com/will-wow/typed-htmx-go/htmx"
 //
 // Extension: [debug]
 //
-// [debug]: https://htmx.org/extensions/debug/
+// [debug]: https://github.com/bigskysoftware/htmx-extensions/blob/main/src/debug/README.md
 const Extension htmx.Extension = "debug"

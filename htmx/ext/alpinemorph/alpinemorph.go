@@ -13,6 +13,6 @@ import "github.com/will-wow/typed-htmx-go/htmx"
 //
 // Extension: [alpine-morph]
 //
-// [alpine-morph]: https://htmx.org/extensions/alpine-morph/
+// [alpine-morph]: https://github.com/bigskysoftware/htmx-extensions/blob/main/src/alpine-morph/README.md
 // [morph plugin]: https://alpinejs.dev/plugins/morph
 const Extension htmx.Extension = "alpine-morph"

@@ -24,7 +24,7 @@ import (
 //
 // Extension: [loading-states]
 //
-// [loading-states]: https://htmx.org/extensions/loading-states/
+// [loading-states]: https://github.com/bigskysoftware/htmx-extensions/blob/main/src/loading-states/README.md
 const Extension htmx.Extension = "loading-states"
 
 // DataLoading shows the element with the default style of inline-block.
